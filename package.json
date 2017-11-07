@@ -1,0 +1,26 @@
+{
+  "name": "pic-bed-qiniu",
+  "version": "1.0.0",
+  "description": "利用七牛制作的图床",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctocto/pic-bed-qiniu.git"
+  },
+  "author": "northerner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ctocto/pic-bed-qiniu/issues"
+  },
+  "homepage": "https://github.com/ctocto/pic-bed-qiniu#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "image-size": "^0.6.1",
+    "md5": "^2.2.1",
+    "mime-types": "^2.1.17",
+    "qn": "^1.3.0"
+  }
+}
